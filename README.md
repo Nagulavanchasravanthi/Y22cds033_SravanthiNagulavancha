@@ -1,2 +1,0 @@
-# Y22cds033_SravanthiNagulavancha
-Develop front application
